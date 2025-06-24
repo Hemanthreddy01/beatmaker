@@ -46,7 +46,7 @@ BeatMaker/
 
 
 
-🛠️ Tech Stack
+🛠️ Tech Stack used :
 HTML5
 
 CSS3
